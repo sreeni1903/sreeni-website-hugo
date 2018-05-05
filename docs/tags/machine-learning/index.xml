@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine-learning on Sreeni</title>
+    <link>https://sreeni1903.github.io/academic-kickstart/tags/machine-learning/</link>
+    <description>Recent content in Machine-learning on Sreeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 05 May 2018 11:47:14 -0400</lastBuildDate>
+    
+	<atom:link href="https://sreeni1903.github.io/academic-kickstart/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deceptive Opinion Spam Detection using Aspect level Sentiment Analysis</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/spamanalysis/</link>
+      <pubDate>Sat, 05 May 2018 11:47:14 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/spamanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of neural networks and chaos theory in rainfall prediction</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/rainfall/</link>
+      <pubDate>Sat, 05 May 2012 11:40:46 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/rainfall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the BSE Sensex: Performance comparison of adaptive linear element, feed forward and time delay neural networks</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/bse-sensex/</link>
+      <pubDate>Thu, 05 Jan 2012 11:44:14 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/bse-sensex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

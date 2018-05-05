@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sreeni on Sreeni</title>
+    <link>https://sreeni1903.github.io/academic-kickstart/</link>
+    <description>Recent content in Sreeni on Sreeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/academic-kickstart/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HappyFeet: Recognizing and Assessing Dance on the Floor</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/happyfeet/</link>
+      <pubDate>Sat, 05 May 2018 11:47:45 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/happyfeet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image super-resolution with context</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/super-resolution/</link>
+      <pubDate>Sat, 05 May 2018 11:47:45 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/super-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deceptive Opinion Spam Detection using Aspect level Sentiment Analysis</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/spamanalysis/</link>
+      <pubDate>Sat, 05 May 2018 11:47:14 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/spamanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent trends in machine learning for human activity recognition—A survey</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/publication/wiley-paper-2018/</link>
+      <pubDate>Sat, 05 May 2018 01:17:42 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/publication/wiley-paper-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HappyFeet: Recognizing and Assessing Dance on the Floor</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/publication/happyfeet-2018/</link>
+      <pubDate>Mon, 12 Feb 2018 01:26:07 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/publication/happyfeet-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing and mitigating sensor heterogeneity using deep learning</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/heterogeneity/</link>
+      <pubDate>Fri, 05 Jan 2018 11:47:32 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Mesothelioma Disease Using Statistical Learning Techniques</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/mesothelioma/</link>
+      <pubDate>Fri, 05 May 2017 11:46:52 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/mesothelioma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A threshold based fall detection algorithm using continuous wavelet transform</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/fall/</link>
+      <pubDate>Thu, 05 May 2016 11:46:41 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/fall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation of Femur bone from computed tomography images using morphological operations</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/femur/</link>
+      <pubDate>Sat, 05 Dec 2015 11:46:23 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/femur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of neural networks and chaos theory in rainfall prediction</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/rainfall/</link>
+      <pubDate>Sat, 05 May 2012 11:40:46 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/rainfall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the BSE Sensex: Performance comparison of adaptive linear element, feed forward and time delay neural networks</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/publication/bse-sensex-2012/</link>
+      <pubDate>Sat, 05 May 2012 01:34:54 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/publication/bse-sensex-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the BSE Sensex: Performance comparison of adaptive linear element, feed forward and time delay neural networks</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/bse-sensex/</link>
+      <pubDate>Thu, 05 Jan 2012 11:44:14 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/bse-sensex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

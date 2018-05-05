@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signal-processing on Sreeni</title>
+    <link>https://sreeni1903.github.io/academic-kickstart/tags/signal-processing/</link>
+    <description>Recent content in Signal-processing on Sreeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 05 May 2016 11:46:41 -0400</lastBuildDate>
+    
+	<atom:link href="https://sreeni1903.github.io/academic-kickstart/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A threshold based fall detection algorithm using continuous wavelet transform</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/fall/</link>
+      <pubDate>Thu, 05 May 2016 11:46:41 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/fall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation of Femur bone from computed tomography images using morphological operations</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/project/femur/</link>
+      <pubDate>Sat, 05 Dec 2015 11:46:23 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/project/femur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

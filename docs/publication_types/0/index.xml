@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Sreeni</title>
+    <link>https://sreeni1903.github.io/academic-kickstart/publication_types/0/</link>
+    <description>Recent content in 0 on Sreeni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 12 Feb 2018 01:26:07 -0400</lastBuildDate>
+    
+	<atom:link href="https://sreeni1903.github.io/academic-kickstart/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HappyFeet: Recognizing and Assessing Dance on the Floor</title>
+      <link>https://sreeni1903.github.io/academic-kickstart/publication/happyfeet-2018/</link>
+      <pubDate>Mon, 12 Feb 2018 01:26:07 -0400</pubDate>
+      
+      <guid>https://sreeni1903.github.io/academic-kickstart/publication/happyfeet-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
