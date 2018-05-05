@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Sreeni</title>
-    <link>https://sreeni1903.github.io/academic-kickstart/tags/demo/</link>
+    <link>https://sreeni1903.github.io/sreeni-website-hugo/tags/demo/</link>
     <description>Recent content in Demo on Sreeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 05 May 2017 11:46:52 -0400</lastBuildDate>
     
-	<atom:link href="https://sreeni1903.github.io/academic-kickstart/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sreeni1903.github.io/sreeni-website-hugo/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Detection of Mesothelioma Disease Using Statistical Learning Techniques</title>
-      <link>https://sreeni1903.github.io/academic-kickstart/project/mesothelioma/</link>
+      <link>https://sreeni1903.github.io/sreeni-website-hugo/project/mesothelioma/</link>
       <pubDate>Fri, 05 May 2017 11:46:52 -0400</pubDate>
       
-      <guid>https://sreeni1903.github.io/academic-kickstart/project/mesothelioma/</guid>
+      <guid>https://sreeni1903.github.io/sreeni-website-hugo/project/mesothelioma/</guid>
       <description></description>
     </item>
     

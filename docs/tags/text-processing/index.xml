@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text-processing on Sreeni</title>
-    <link>https://sreeni1903.github.io/academic-kickstart/tags/text-processing/</link>
+    <link>https://sreeni1903.github.io/sreeni-website-hugo/tags/text-processing/</link>
     <description>Recent content in Text-processing on Sreeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 05 May 2018 11:47:45 -0400</lastBuildDate>
     
-	<atom:link href="https://sreeni1903.github.io/academic-kickstart/tags/text-processing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sreeni1903.github.io/sreeni-website-hugo/tags/text-processing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Image super-resolution with context</title>
-      <link>https://sreeni1903.github.io/academic-kickstart/project/super-resolution/</link>
+      <link>https://sreeni1903.github.io/sreeni-website-hugo/project/super-resolution/</link>
       <pubDate>Sat, 05 May 2018 11:47:45 -0400</pubDate>
       
-      <guid>https://sreeni1903.github.io/academic-kickstart/project/super-resolution/</guid>
+      <guid>https://sreeni1903.github.io/sreeni-website-hugo/project/super-resolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deceptive Opinion Spam Detection using Aspect level Sentiment Analysis</title>
-      <link>https://sreeni1903.github.io/academic-kickstart/project/spamanalysis/</link>
+      <link>https://sreeni1903.github.io/sreeni-website-hugo/project/spamanalysis/</link>
       <pubDate>Sat, 05 May 2018 11:47:14 -0400</pubDate>
       
-      <guid>https://sreeni1903.github.io/academic-kickstart/project/spamanalysis/</guid>
+      <guid>https://sreeni1903.github.io/sreeni-website-hugo/project/spamanalysis/</guid>
       <description></description>
     </item>
     

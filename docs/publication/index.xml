@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Sreeni</title>
-    <link>https://sreeni1903.github.io/academic-kickstart/publication/</link>
+    <link>https://sreeni1903.github.io/sreeni-website-hugo/publication/</link>
     <description>Recent content in Publications on Sreeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://sreeni1903.github.io/academic-kickstart/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sreeni1903.github.io/sreeni-website-hugo/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent trends in machine learning for human activity recognition—A survey</title>
-      <link>https://sreeni1903.github.io/academic-kickstart/publication/wiley-paper-2018/</link>
+      <link>https://sreeni1903.github.io/sreeni-website-hugo/publication/wiley-paper-2018/</link>
       <pubDate>Sat, 05 May 2018 01:17:42 -0400</pubDate>
       
-      <guid>https://sreeni1903.github.io/academic-kickstart/publication/wiley-paper-2018/</guid>
+      <guid>https://sreeni1903.github.io/sreeni-website-hugo/publication/wiley-paper-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HappyFeet: Recognizing and Assessing Dance on the Floor</title>
-      <link>https://sreeni1903.github.io/academic-kickstart/publication/happyfeet-2018/</link>
+      <link>https://sreeni1903.github.io/sreeni-website-hugo/publication/happyfeet-2018/</link>
       <pubDate>Mon, 12 Feb 2018 01:26:07 -0400</pubDate>
       
-      <guid>https://sreeni1903.github.io/academic-kickstart/publication/happyfeet-2018/</guid>
+      <guid>https://sreeni1903.github.io/sreeni-website-hugo/publication/happyfeet-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting the BSE Sensex: Performance comparison of adaptive linear element, feed forward and time delay neural networks</title>
-      <link>https://sreeni1903.github.io/academic-kickstart/publication/bse-sensex-2012/</link>
+      <link>https://sreeni1903.github.io/sreeni-website-hugo/publication/bse-sensex-2012/</link>
       <pubDate>Sat, 05 May 2012 01:34:54 -0400</pubDate>
       
-      <guid>https://sreeni1903.github.io/academic-kickstart/publication/bse-sensex-2012/</guid>
+      <guid>https://sreeni1903.github.io/sreeni-website-hugo/publication/bse-sensex-2012/</guid>
       <description></description>
     </item>
     

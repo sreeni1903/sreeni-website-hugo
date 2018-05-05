@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Sreeni</title>
-    <link>https://sreeni1903.github.io/academic-kickstart/publication_types/1/</link>
+    <link>https://sreeni1903.github.io/sreeni-website-hugo/publication_types/1/</link>
     <description>Recent content in 1 on Sreeni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 05 May 2012 01:34:54 -0400</lastBuildDate>
     
-	<atom:link href="https://sreeni1903.github.io/academic-kickstart/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sreeni1903.github.io/sreeni-website-hugo/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Predicting the BSE Sensex: Performance comparison of adaptive linear element, feed forward and time delay neural networks</title>
-      <link>https://sreeni1903.github.io/academic-kickstart/publication/bse-sensex-2012/</link>
+      <link>https://sreeni1903.github.io/sreeni-website-hugo/publication/bse-sensex-2012/</link>
       <pubDate>Sat, 05 May 2012 01:34:54 -0400</pubDate>
       
-      <guid>https://sreeni1903.github.io/academic-kickstart/publication/bse-sensex-2012/</guid>
+      <guid>https://sreeni1903.github.io/sreeni-website-hugo/publication/bse-sensex-2012/</guid>
       <description></description>
     </item>
     
