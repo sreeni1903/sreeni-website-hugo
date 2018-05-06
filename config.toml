@@ -63,7 +63,7 @@ defaultContentLanguageInSubdir = false
   # [[{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}]]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Profile/photo.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "rsreeni1@umbc.edu"
   address = "1000 Hilltop Circle, ITE 457, Baltimore, 21250, USA"
   phone = "+1 (919) 945 6767"
